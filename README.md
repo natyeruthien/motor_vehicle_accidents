@@ -9,7 +9,7 @@ This project explores the patterns and dynamics of car accidents across the Unit
 - Analyze factors impacting road safety and traffic management.
 
 ## Dataset
-Description of the dataset including time, location, weather conditions, and severity levels.
+Source: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
 ## Methodology
 - **Data Preprocessing**: Involved standardizing features, handling missing values, feature selection, and removing extreme outliers to ensure data quality and consistency.
